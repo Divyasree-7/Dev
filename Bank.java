@@ -1,8 +1,8 @@
 public class Bank{
   public static void main(String[] args){
-    double balance=1000;
-    double depositAmt=800;
-    double withdrawAmt=600;
+    double balance=100;
+    double depositAmt=80;
+    double withdrawAmt=60;
 
     System.out.println("Initial Balance: "+balance);
 
